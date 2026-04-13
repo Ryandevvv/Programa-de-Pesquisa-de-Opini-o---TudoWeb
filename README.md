@@ -1,2 +1,2 @@
-# Programa-de-Pesquisa-de-Opini-o---TudoWeb
+# Programa-de-Pesquisa-de-Opinião---TudoWeb
 Programa em Python
